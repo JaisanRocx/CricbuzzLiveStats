@@ -11,7 +11,7 @@ from utils.db_connection import get_connection
 SCORECARD_URL = "https://cricbuzz-cricket.p.rapidapi.com/mcenter/v1/40381/scard"
 
 HEADERS = {
-    "x-rapidapi-key": "56189fe37fmsha58bef222a0c2f2p10741djsn96fd2d678427",
+    "x-rapidapi-key": "YOUR_API_KEY",
 	"x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com",
 }
 

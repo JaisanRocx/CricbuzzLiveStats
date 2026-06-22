@@ -10,7 +10,7 @@ from utils.db_connection import get_connection
 url = "https://cricbuzz-cricket.p.rapidapi.com/matches/v1/recent"
 
 headers = {
-    "x-rapidapi-key": "56189fe37fmsha58bef222a0c2f2p10741djsn96fd2d678427",
+    "x-rapidapi-key": "YOUR_API_KEY",
     "x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com"
 }
 

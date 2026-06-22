@@ -6,7 +6,7 @@ player_id = 1114
 url = f"https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/{player_id}"
 
 headers = {
-    "x-rapidapi-key": "56189fe37fmsha58bef222a0c2f2p10741djsn96fd2d678427",
+    "x-rapidapi-key": "YOUR_API_KEY",
     "x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com"
 }
 
